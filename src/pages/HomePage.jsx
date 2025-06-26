@@ -10,7 +10,7 @@ const HomePage = () => {
                 <main className="container1">
                     <section className="card2">
                         <div class="hero-section">
-                            <img src="/public/Images/vck.png" alt="Vivekanand College Banner" class="hero-image" />
+                            <img src="/Images/vck.png" alt="Vivekanand College Banner" class="hero-image" />
                             <div class="overlay-text">
                                 <h1>Welcome to Vivekanand College </h1>
                                 <p>Your journey to excellence starts here.</p>
